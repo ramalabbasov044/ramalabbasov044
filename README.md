@@ -1,4 +1,4 @@
-<h1 align="center">Hi guys 👋 Ramal</h1>
+<h1 align="center">Hi guys 👋 </h1>
 <h3 align="center">My name is Ramal Abbasov . I am 15 . I'm mostly a front-end developer. I trust myself I'm open to new offers 💪</h3>
 
 <h3 align="left">Connect with me:</h3>
